@@ -39,11 +39,11 @@ The landing screen with quick access to Add User and User Details.
 
 ### ➕ Add User
 Simple and validated form to add new users.
-![Add User](frontend/assets/add-user.png)
+![Add User](frontend/assets/addUser.png)
 
 ### 📋 User Details
-Displays a paginated, searchable, and downloadable list of all users.
-![User Details](frontend/assets/user-details.png)
+Displays a searchable, and downloadable list of all users.
+![User Details](frontend/assets/userDetails.png)
 
 
 ---
