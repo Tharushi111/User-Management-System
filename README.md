@@ -103,9 +103,8 @@ npm run dev
 
 ```bash
 cd ../frontend
-npm start
+npm run dev
 ```
-- Access frontend at http://localhost:3000
 
 ## 🚀 Usage
 
@@ -124,8 +123,8 @@ npm start
 - 🔔 Receive success/error notifications
 
 ## 📬 Contact
-Tharushi Paranagama
-Email: tharushiparanagama1@gmail.com
+- Tharushi Paranagama
+- Email: tharushiparanagama1@gmail.com
 
 
 
