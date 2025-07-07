@@ -25,18 +25,26 @@ UserSphere is a modern user management system built with the MERN stack (MongoDB
 - **Others**: LocalStorage Auth, PDF Export, Regex Validations
 
 ---
+### 📝 Sign Up
+New users can register through this clean form.
+![Sign Up](frontend/assets/signup.png)
 
-## 📸 Screenshots
+### 🔐 Sign In
+Secure login for authorized access.
+![Sign In](frontend/assets/signin.png)
 
+### 🏠 Home Page
+The landing screen with quick access to Add User and User Details.
+![Home Page](frontend/assets/home.png)
 
-### 🔐 Sign In Page
-![Sign In](./assets/signin.png)
+### ➕ Add User
+Simple and validated form to add new users.
+![Add User](frontend/assets/add-user.png)
 
-### ✍️ Add User Form
-![Add User](./assets/add-user.png)
+### 📋 User Details
+Displays a paginated, searchable, and downloadable list of all users.
+![User Details](frontend/assets/user-details.png)
 
-### 📋 User Details with Search and PDF Export
-![User Table](./assets/user-details.png)
 
 ---
 
