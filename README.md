@@ -69,6 +69,64 @@ Displays a searchable, and downloadable list of all users.
 ```bash
 git clone https://https://github.com/Tharushi111/User-Management-System
 cd UserSphere
+```
+
+2. **Install frontend dependencies**
+
+```bash
+cd frontend
+npm install
+```
+
+3. **Install backend dependencies**
+
+```bash
+cd ../backend
+npm install
+```
+
+4. **Setup environment variables**
+
+Create a .env file inside backend folder with:
+
+```env
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret_key
+PORT=5000
+```
+5. **Start backend server**
+
+```bash
+npm run dev
+```
+6. Start frontend app
+
+```bash
+cd ../frontend
+npm start
+```
+- Access frontend at http://localhost:3000
+
+## 🚀 Usage
+
+- 🎯 Register a new user via Signup page
+
+- 🔑 Login with your credentials on Signin page
+
+- 🏠 Access the dashboard/home after login
+
+- ➕ Add users using the form
+
+- 🔍 Search users quickly via search bar
+
+- ✏️ Edit or 🗑️ Delete users with confirmation alerts
+
+- 🔔 Receive success/error notifications
+
+## 📬 Contact
+Tharushi Paranagama
+Email: tharushiparanagama1@gmail.com
+
 
 
 
