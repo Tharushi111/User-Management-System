@@ -19,8 +19,10 @@ UserSphere is a learning project designed to practice MERN stack development wit
 - 🔐 User Login (Signin) with session management  
 - 🏠 Dashboard/Home page after login  
 - ➕ Add new users with detailed forms  
-- 📋 View user details in a searchable and paginated table  
-- ✏️ Edit and 🗑️ Delete users with confirmation alerts  
+- 📋 View user details in a searchable and paginated table
+- 🔍 Search bar with autocomplete suggestions — type the first letter(s) to filter user names instantly
+- ✏️ Edit and 🗑️ Delete users with confirmation alerts
+- 📄 Download user details as PDF reports for easy sharing and printing 
 - 🎨 Responsive UI with Tailwind CSS and DaisyUI  
 - 🔔 Notifications using `react-hot-toast`  
 - 🔒 Secure password hashing and validation  
@@ -105,22 +107,6 @@ npm run dev
 cd ../frontend
 npm run dev
 ```
-
-## 🚀 Usage
-
-- 🎯 Register a new user via Signup page
-
-- 🔑 Login with your credentials on Signin page
-
-- 🏠 Access the dashboard/home after login
-
-- ➕ Add users using the form
-
-- 🔍 Search users quickly via search bar
-
-- ✏️ Edit or 🗑️ Delete users with confirmation alerts
-
-- 🔔 Receive success/error notifications
 
 ## 📬 Contact
 - Tharushi Paranagama
